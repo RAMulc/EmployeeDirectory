@@ -1,2 +1,3 @@
 # EmployeeDirectory
-An Employee Directory built using React
+
+An Employee Directory built using React.
