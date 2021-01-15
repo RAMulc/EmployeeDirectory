@@ -1,0 +1,9 @@
+.header {
+    text-align: center;
+    border: cadetblue;
+    border-bottom:blueviolet;
+    border-style: solid;
+    width: 100%;
+    background-color:cadetblue;
+    height: 125px;
+}
