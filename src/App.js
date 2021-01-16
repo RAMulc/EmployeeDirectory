@@ -11,7 +11,7 @@ function App() {
             <Container>
                 <Header />
                 <Wrapper>
-                    <Route exact path="/" component={EmpIndex} />
+                    <Route exact path="/EmployeeDirectory" component={EmpIndex} />
                 </Wrapper>
             </Container>
         </Router>
