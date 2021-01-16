@@ -35,19 +35,19 @@ An Employee Directory built using React.
 
 A simple Employee Directory built using React. A table of random users (100 for demonstration purposes) is generated from [Random User API](https://randomuser.me/). The contents of the table is rendered to the screen when the page loads. 
 
-<img src="E:\UWA\Homework\UWA_HW19_EmployeeDirectory\assets\img\LandingPage.png" alt="LandingPage" style="zoom: 80%;" />
+<img src="https://github.com/RAMulc/EmployeeDirectory/blob/main/assets/img/LandingPage.png" alt="LandingPage" style="zoom: 80%;" />
 
 The user may sort the rendered data either by Date Of Birth (D.O.B.)....
 
-<img src="E:\UWA\Homework\UWA_HW19_EmployeeDirectory\assets\img\DOBSort.png" alt="DOBSort" style="zoom:50%;" />
+<img src="https://github.com/RAMulc/EmployeeDirectory/blob/main/assets/img/DOBSort.png" alt="DOBSort" style="zoom:50%;" />
 
 ... or by name.
 
-<img src="E:\UWA\Homework\UWA_HW19_EmployeeDirectory\assets\img\NameSort.png" alt="NameSort" style="zoom:50%;" />
+<img src="https://github.com/RAMulc/EmployeeDirectory/blob/main/assets/img/NameSort.png" alt="NameSort" style="zoom:50%;" />
 
 A field is provided to search the table by user name, with the rendered table updating as the search field is entered. The search text will filter the results by any name containing the search string, and is case insensitive
 
-<img src="E:\UWA\Homework\UWA_HW19_EmployeeDirectory\assets\img\Search.png" alt="Search" style="zoom: 50%;" />
+<img src="https://github.com/RAMulc/EmployeeDirectory/blob/main/assets/img/Search.png" alt="Search" style="zoom: 50%;" />
 
 ## Installation
 
